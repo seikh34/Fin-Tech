@@ -1,0 +1,11 @@
+altair>=4.0.0,<5.0.0
+matplotlib
+numpy
+pandas
+pillow
+plotly
+scipy
+scikit-learn
+streamlit>=1.41.0
+yfinance
+
